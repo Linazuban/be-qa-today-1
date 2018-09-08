@@ -1,0 +1,8 @@
+{
+  "only words": "hello world",
+  "only numbers": "1234567890",
+  "special symbols": "!@#$%^&*()_+",
+  "empty": "",
+   "walid": "test@Linnei_Z@ukr.net"
+}
+git --version
